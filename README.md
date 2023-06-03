@@ -15,7 +15,7 @@ Key Steps:
 
 By sharing this project on GitHub, I aim to showcase my expertise in time series analysis, data preprocessing, and model building. Feel free to explore the code, replicate the analysis, and provide feedback or suggestions for improvement.
 
-Technologies Used: Python, pandas, matplotlib, pmdarima, statsmodels.
+Technologies Used: Python, pandas, matplotlib, pmdarima, statsmodels..
 
 
 
