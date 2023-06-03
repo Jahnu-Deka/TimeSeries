@@ -17,8 +17,6 @@ By sharing this project on GitHub, I aim to showcase my expertise in time series
 
 Technologies Used: Python, pandas, matplotlib, pmdarima, statsmodels.
 
-Please note that this project serves as an educational example and can be expanded upon or adapted to different time series datasets and forecasting scenarios.
 
-If you have any questions or would like to collaborate on time series analysis or related projects, feel free to connect with me!
 
 
